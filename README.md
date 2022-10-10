@@ -1,2 +1,2 @@
 # fizzbuzz
-Projet d'entrainement aux tests unitaires en Go
+Projet d'entrainement au TDD en Go
